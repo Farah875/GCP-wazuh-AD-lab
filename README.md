@@ -233,4 +233,6 @@ At this stage you have a working **GCP Security Lab**:
 
 From here you can extend the lab to simulate more attacks and detection use cases.
 
+## Additional Guides
 
+- [Detecting Attacks on the GCP Network](detecting-attacks.md)
